@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 400px;
+    background-color: olivedrab;
+    padding: 20px;
+    border: 2px solid rgb(77, 12, 77);
+    margin: 20px;
+}
+
+
+
+
+
